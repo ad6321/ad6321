@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ad6321
+- 👋 Hi, I’m @0x00dal00p
 - 👀 I’m interested in cybersecurity, blockchain and cryptocurrency.
 - 🌱 I’m currently studying for COMPTIA Network+ and Security+
 - 💞️ I’m looking to collaborate on anything.
