@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @spartan-alpha
 - 👀 I’m interested in cybersecurity, blockchain and cryptocurrency.
-- 🌱 I’m currently studying for COMPTIA Network+ and Security+
+- 🌱 I’m currently studying for OSCP
 - 💞️ I’m looking to collaborate on anything.
 - 📫 How to reach me ... 0x00dal00p@gmail.com
 
